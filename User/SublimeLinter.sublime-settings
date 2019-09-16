@@ -1,0 +1,9 @@
+// SublimeLinter Settings - User
+{
+	"debug": true,
+	"paths": {
+        "linux": [],
+        "osx": [],
+        "windows": ["D:\\php733"]
+    },
+}

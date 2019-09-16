@@ -1,0 +1,11 @@
+{
+    "codeintel_language_settings": {
+        "PHP": {
+            "php": "D:\\php733\\php.exe",
+            "codeintel_scan_extra_dir": ["D:\\php733\\extras"],
+            "codeintel_scan_files_in_project": true,
+            "codeintel_max_recursive_dir_depth": 15,
+            "codeintel_scan_exclude_dir":["D:\\php733"]
+        }
+    }
+}

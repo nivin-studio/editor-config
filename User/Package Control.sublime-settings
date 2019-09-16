@@ -1,0 +1,34 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"ChineseLocalizations",
+		"CodeFormatter",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
+		"DotENV",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"GoToView",
+		"MagicTime",
+		"Package Control",
+		"SFTP",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Translator"
+	],
+	"repositories":
+	[
+		"https://github.com/nivin-studio/Translator",
+		"https://github.com/nivin-studio/MagicTime",
+		"https://github.com/nivin-studio/GoToView"
+	]
+}

@@ -1,0 +1,6 @@
+[
+	{ "caption": "-", "id": "start" },
+    { "command": "git_status", "caption": "git_status" },
+    { "command": "git_add_choice", "caption": "git_add" },
+    { "command": "git_commit", "caption": "git_commit" },
+]

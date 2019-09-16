@@ -1,0 +1,11 @@
+[	
+	{ "keys": ["ctrl+1"], "command": "toggle_side_bar" },	
+	{ "keys": ["ctrl+2"], "command": "toggle_menu" },	
+	{ "keys": ["ctrl+3"], "command": "toggle_minimap" },	
+	{ "keys": ["ctrl+4"], "command": "toggle_status_bar" },	
+	{ "keys": ["ctrl+5"], "command": "toggle_tabs" },	
+	{ "keys": ["alt+1"], "command": "code_formatter"},	
+	{ "keys": ["ctrl+shift+x"], "command": "upper_case" },	
+	{ "keys": ["ctrl+shift+c"], "command": "lower_case" },
+	{ "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace"},
+]
