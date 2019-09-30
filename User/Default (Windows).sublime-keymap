@@ -4,7 +4,7 @@
 	{ "keys": ["ctrl+3"], "command": "toggle_minimap" },	
 	{ "keys": ["ctrl+4"], "command": "toggle_status_bar" },	
 	{ "keys": ["ctrl+5"], "command": "toggle_tabs" },	
-	{ "keys": ["alt+1"], "command": "code_formatter"},	
+	{ "keys": ["alt+1"], "command": "format"},	
 	{ "keys": ["ctrl+shift+x"], "command": "upper_case" },	
 	{ "keys": ["ctrl+shift+c"], "command": "lower_case" },
 	{ "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace"},
