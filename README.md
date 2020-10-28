@@ -1,2 +1,2 @@
-# sublime-config
-sublime自用配置
+# editor-config
+各类编辑器自用相关配置
